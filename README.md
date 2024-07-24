@@ -1,2 +1,2 @@
 # Tourism-Service-Management
-this is developed by Java(oop)
+this is developed by Java/JSP
